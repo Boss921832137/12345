@@ -1,0 +1,30 @@
+button {
+    width: 218px;
+    height: 69px;
+    top: 113px;
+    left: 332px;
+    padding: 25px 50px 25px 50px;
+    gap: 10px;
+    border-radius: 20px;
+    background: #F7C35F;
+
+}
+
+button:hover {
+    background: #F6D086;
+}
+
+button:active {
+    background: #A16C06;
+}
+
+div {
+    width: 183px;
+    height: 177px;
+    background: #445945;
+}
+
+div:hover {
+    background: #F7C35F;
+    transition: 3s;
+}
